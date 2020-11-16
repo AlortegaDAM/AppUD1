@@ -1,0 +1,25 @@
+h2{
+    font: oblique bold 120% cursive;
+    font-size: xx-large;
+    color:  #b7950b;
+
+}
+h1{
+    font: oblique bold 120% cursive;
+    font-size: xx-large;
+    color:   #1a5276 ;
+
+}
+a{
+    font: oblique bold 120% cursive;
+    background-color:   #1a5276;
+    color: white;
+}
+.spinner-border text-dark{
+    margin-top: 100px;
+    margin-left: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}

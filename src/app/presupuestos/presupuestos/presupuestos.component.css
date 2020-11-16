@@ -1,0 +1,17 @@
+h2{
+    font: oblique bold 120% cursive;
+    font-size: xx-large;
+    color:  #b7950b;
+
+}
+h3{
+    font: oblique bold 120% cursive;
+    font-size: xx-large;
+    color:   #186a3b;
+
+}
+a{
+    font: oblique bold 120% cursive;
+    background-color:   #186a3b;
+    color: white;
+}

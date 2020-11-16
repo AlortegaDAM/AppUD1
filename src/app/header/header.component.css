@@ -1,0 +1,16 @@
+nav {
+  font: oblique bold 120% cursive;
+  margin-bottom: 40px;
+  background-color:  #ef6c00 ;
+  border-color: beige;
+  font-size: larger;
+ }
+div>a{
+  color: #eceff1 ;
+  margin-left: 30px;
+}
+ li>button{
+  font: oblique bold 90% cursive;
+  background-color:  #eceff1  ;
+  color: #ef6c00;
+ }

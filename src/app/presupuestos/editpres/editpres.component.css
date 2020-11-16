@@ -1,0 +1,17 @@
+input.ng-invalid.ng-touched {border-left: 5px solid #a94442;}
+input.ng-valid.ng-dirty {border-left: 5px solid #42A948;}
+select.ng-invalid.ng-touched {border-left: 5px solid #a94442;}
+select.ng-valid.ng-dirty {border-left: 5px solid #42A948;}
+.check {color: #42A948;}
+.uncheck {color: #a94442;}
+h2{
+    font: oblique bold 120% cursive;
+    font-size: xx-large;
+    color:   #186a3b;
+
+}
+a{
+    font: oblique bold 120% cursive;
+    background-color:   #186a3b;
+    color: white;
+}
